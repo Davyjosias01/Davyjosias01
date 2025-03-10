@@ -6,4 +6,4 @@
 - 🔗 My linkedin profile: <b><a href="https://www.linkedin.com/in/davy-josias-scheuermann-921a411b7/">Linkedin!</a></b>
 
 ##
-<a href="https://www.instagram.com/davy.josias target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/davy.josias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
