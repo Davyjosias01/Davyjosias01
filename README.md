@@ -1,7 +1,7 @@
 ## Hi there, i am Davy Josias 👋
 
 - 🔭 I’m currently working on <b><a href="https://www.razonet.com.br/" target="_blank">Razonet Contabilidade Digital</a></b> like a IT auxiliar
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning Java
 - 💻 I am a computer engineering student at Unoesc in Joaçaba.
 - 🏭 I have a degree in industrial automation
 
